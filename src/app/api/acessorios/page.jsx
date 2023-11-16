@@ -4,7 +4,7 @@ export default async function AcessoriosCadastrados() {
     let acessorios = [];
 
     try {
-        const response = await fetch('http://localhost:3000/api/acessorio/0');
+        const response = await fetch('http://localhost:8080/07-WebApi/api/acessorio/0');
         acessorios = await response.json();
     } catch (error) {
         console.log(error);
