@@ -5,6 +5,9 @@ Denise Nascimento Baptistucci - RM 550511
 Matheus Colossal Araujo - RM 99572
 Guilherme Costa Batista - RM 551173
 
+Vercel: https://vercel.com/amartelanc/tdspl-rwd-sprint4
+Github: https://github.com/AMartelanc/tdspl_rwd_sprint4
+
 # ACESSO DO SISTEMA
 
 O sistema contém uma api com seis páginas:
