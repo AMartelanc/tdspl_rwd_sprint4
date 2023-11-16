@@ -4,7 +4,7 @@ export default async function BikesCadastradas() {
     let bikes = [];
 
     try {
-        const response = await fetch('http://localhost:3000/api/bike/0');
+        const response = await fetch('http://localhost:8080/07-WebApi/api/bike/0');
         bikes = await response.json();
     } catch (error) {
         console.log(error);
